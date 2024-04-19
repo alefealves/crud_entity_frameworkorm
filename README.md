@@ -1,0 +1,1 @@
+vamos te mostrar como construir uma API .Net do zero, de maneira descomplicada. Aprenda a executar operações CRUD com facilidade, criando rotas e endpoints poderosos. Além disso, mergulhe no mundo do Entity Framework e descubra como configurá-lo em uma simples API .Net. 🚀
